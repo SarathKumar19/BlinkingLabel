@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 [![Platform](https://img.shields.io/cocoapods/p/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 
+# Preview
+![](BlinkingLabel.gif?raw=true "Blinking Label screenshot")
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +25,7 @@ pod 'BlinkingLabel'
 
 ## Author
 
-SarathKumar19, g.sarathkumarphoenix@gmail.com
+SarathKumar19
 
 ## License
 
