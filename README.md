@@ -5,7 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 [![Platform](https://img.shields.io/cocoapods/p/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 
-# Preview
+## Preview
+
+A UILabel that blinks! It is achieved by subclassing UILabel and adding additional functionalities.
 ![](BlinkingLabel.gif?raw=true "Blinking Label screenshot")
 
 ## Example
@@ -13,6 +15,8 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+* ios8
 
 ## Installation
 
