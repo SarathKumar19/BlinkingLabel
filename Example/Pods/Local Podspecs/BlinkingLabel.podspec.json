@@ -1,8 +1,8 @@
 {
   "name": "BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkingLabel.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "A subclass on UILabel that provides a nice blink feature.",
+  "description": "This Pod provides 'blink' feature for a UILabel whose state can be toggled to start or stop blinking.",
   "homepage": "https://github.com/SarathKumar19/BlinkingLabel",
   "license": {
     "type": "MIT",
