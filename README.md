@@ -8,7 +8,8 @@
 ## Preview
 
 A UILabel that blinks! It is achieved by subclassing UILabel and adding additional functionalities.
-![](BlinkingLabel.gif?raw=true "Blinking Label screenshot")
+
+![](BlinkLabel.gif?raw=true "Blinking Label screenshot")
 
 ## Example
 
